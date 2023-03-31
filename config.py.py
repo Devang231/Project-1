@@ -1,0 +1,5 @@
+# visual crossing API key
+adina_api_key = 'LH73CB26GBPR44YGBTZVU2LDX'
+henry_api_key = '23Y4ZYB64VL9GHMXE574V8TKP'
+devang_api_key = '922AFYQQMRBZ4PRWN63EN8CCL'
+tanner_api_key = '7W463AU3BSDRKWMW7EH3LUST9'
