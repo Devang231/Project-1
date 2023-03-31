@@ -1,5 +1,5 @@
 ## Project title: Optimizing Solar Development in Southwest US
-#test comment
+
 ## Team Members: 
 * Tanner Amman
 * Henry Luken
