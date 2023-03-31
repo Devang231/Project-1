@@ -46,3 +46,18 @@ Where are the best places to install solar panels in the southwest US?
   * Energy cost by energy source (line graph)
   * Bar graph (comparison of cost for different energy types)
   
+## 3/30/23 Updates
+ * Narrowing the scope to just CO - by county (62 counties)
+ * Weather data from VisualCrossing (temp, cloud cover, solar radiation, solar energy) - 1000 requests per day per person
+   * Everyone will get an API key to start pulling historical data
+   * Adina will build the query - everyone will share API keys with Adina to pull the data
+ * Other data we will look at:
+   * Census data (comparing types of energy used (% solar), population)
+   * Locations of solar farms currently (eia.gov)
+ * Current questions:
+   * Where is optimal to build more solar infrastructure?
+   * Are current solar farms optimally placed?
+   * Where to market to individuals installing solar panels?
+ * After pulling data, each person will investigate different weather metrics
+ * Goal: Gather majority of data before 4/3
+ * Goal: By Wednesday, start on PPT
