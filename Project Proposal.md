@@ -61,3 +61,10 @@ Where are the best places to install solar panels in the southwest US?
  * After pulling data, each person will investigate different weather metrics
  * Goal: Gather majority of data before 4/3
  * Goal: By Wednesday, start on PPT
+
+## 4/3/23 Updates
+ * Need to calculate a linear regression to determine estimates for census data beyond 2020 (Tanner)
+ * Need to figure out how to plot a map with county lines (ref: https://melaniesoek0120.medium.com/data-visualization-how-to-plot-a-map-with-geopandas-in-python-73b10dcd4b4b)
+ * Heat maps of solar/weather data (Henry)
+ * Need to create final dataframe of census data with weather data (3-year averages by county) and county data (Adina)
+ * Need to gather data on where solar farms exist in CO already (Devang)
