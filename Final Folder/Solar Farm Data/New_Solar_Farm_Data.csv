@@ -1,0 +1,811 @@
+period,plantCode,plantName,fuel2002,fuelTypeDescription,state,stateDescription,primeMover,generation,generation-units
+2022,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,64500.0,megawatthours
+2022,61991,"Pioneer Solar (CO), LLC",SUN,Solar,CO,Colorado,PV,204349.0,megawatthours
+2022,61991,"Pioneer Solar (CO), LLC",SUN,Solar,CO,Colorado,ALL,204349.0,megawatthours
+2022,61811,Titan Solar,SUN,Solar,CO,Colorado,PV,109929.0,megawatthours
+2022,61811,Titan Solar,SUN,Solar,CO,Colorado,ALL,109929.0,megawatthours
+2022,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,231609.0,megawatthours
+2022,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,231609.0,megawatthours
+2022,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,75626.0,megawatthours
+2022,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,75626.0,megawatthours
+2022,62495,Palmer Solar,SUN,Solar,CO,Colorado,PV,151874.0,megawatthours
+2022,62495,Palmer Solar,SUN,Solar,CO,Colorado,ALL,151874.0,megawatthours
+2022,63770,Bighorn Solar 1,SUN,Solar,CO,Colorado,PV,588546.0,megawatthours
+2022,63770,Bighorn Solar 1,SUN,Solar,CO,Colorado,ALL,588546.0,megawatthours
+2022,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,PV,86060.0,megawatthours
+2022,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,ALL,86060.0,megawatthours
+2022,65032,Sun Mountain Solar 1,SUN,Solar,CO,Colorado,PV,22748.0,megawatthours
+2022,65032,Sun Mountain Solar 1,SUN,Solar,CO,Colorado,ALL,22748.0,megawatthours
+2022,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,66073.0,megawatthours
+2022,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,66073.0,megawatthours
+2022,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,64500.0,megawatthours
+2021,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,ALL,36700.0,megawatthours
+2021,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,PV,3710.0,megawatthours
+2021,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,ALL,3710.0,megawatthours
+2021,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,PV,3536.0,megawatthours
+2021,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,ALL,3536.0,megawatthours
+2021,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,PV,3458.0,megawatthours
+2021,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,ALL,3458.0,megawatthours
+2021,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,PV,9997.0,megawatthours
+2021,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,ALL,9997.0,megawatthours
+2021,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,PV,6642.0,megawatthours
+2021,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,ALL,6642.0,megawatthours
+2021,61314,SR Kersey,SUN,Solar,CO,Colorado,PV,7982.0,megawatthours
+2021,61314,SR Kersey,SUN,Solar,CO,Colorado,ALL,7982.0,megawatthours
+2021,60248,Skylark,SUN,Solar,CO,Colorado,PV,9280.0,megawatthours
+2021,60248,Skylark,SUN,Solar,CO,Colorado,ALL,9280.0,megawatthours
+2021,60247,Valley View Solar,SUN,Solar,CO,Colorado,PV,9775.0,megawatthours
+2021,60247,Valley View Solar,SUN,Solar,CO,Colorado,ALL,9775.0,megawatthours
+2021,56481,SunE Alamosa,SUN,Solar,CO,Colorado,PV,12321.0,megawatthours
+2021,56481,SunE Alamosa,SUN,Solar,CO,Colorado,ALL,12321.0,megawatthours
+2021,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,PV,29027.0,megawatthours
+2021,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,ALL,29027.0,megawatthours
+2021,64880,Venture 1 - 1A CSG,SUN,Solar,CO,Colorado,PV,2171.0,megawatthours
+2021,64880,Venture 1 - 1A CSG,SUN,Solar,CO,Colorado,ALL,2171.0,megawatthours
+2021,64831,Oak Leaf Solar XVIII LLC,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2021,64831,Oak Leaf Solar XVIII LLC,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2021,58481,CSU Pueblo,SUN,Solar,CO,Colorado,PV,2106.0,megawatthours
+2021,58481,CSU Pueblo,SUN,Solar,CO,Colorado,ALL,2106.0,megawatthours
+2021,65609,Gilcrest Sun CSG,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2021,65609,Gilcrest Sun CSG,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2021,65520,Vasquez V CSG,SUN,Solar,CO,Colorado,PV,428.0,megawatthours
+2021,65520,Vasquez V CSG,SUN,Solar,CO,Colorado,ALL,428.0,megawatthours
+2021,63092,Riverview Solar,SUN,Solar,CO,Colorado,PV,3465.0,megawatthours
+2021,63092,Riverview Solar,SUN,Solar,CO,Colorado,ALL,3465.0,megawatthours
+2021,57509,Carson Solar I,SUN,Solar,CO,Colorado,PV,3326.0,megawatthours
+2021,57509,Carson Solar I,SUN,Solar,CO,Colorado,ALL,3326.0,megawatthours
+2021,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,PV,3832.0,megawatthours
+2021,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,ALL,3832.0,megawatthours
+2021,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3608.0,megawatthours
+2021,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3608.0,megawatthours
+2021,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,3689.0,megawatthours
+2021,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3689.0,megawatthours
+2021,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,PV,3680.0,megawatthours
+2021,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3680.0,megawatthours
+2021,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,4194.0,megawatthours
+2021,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,4194.0,megawatthours
+2021,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3437.0,megawatthours
+2021,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3437.0,megawatthours
+2021,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3386.0,megawatthours
+2021,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3386.0,megawatthours
+2021,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,PV,3210.0,megawatthours
+2021,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,ALL,3210.0,megawatthours
+2021,63770,Bighorn Solar 1,SUN,Solar,CO,Colorado,PV,64709.0,megawatthours
+2021,63770,Bighorn Solar 1,SUN,Solar,CO,Colorado,ALL,64709.0,megawatthours
+2021,61811,Titan Solar,SUN,Solar,CO,Colorado,PV,104564.0,megawatthours
+2021,61811,Titan Solar,SUN,Solar,CO,Colorado,ALL,104564.0,megawatthours
+2021,63681,Oak Leaf Solar XXXIII LLC (Lantz),SUN,Solar,CO,Colorado,PV,3959.0,megawatthours
+2021,63681,Oak Leaf Solar XXXIII LLC (Lantz),SUN,Solar,CO,Colorado,ALL,3959.0,megawatthours
+2021,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,PV,1293.0,megawatthours
+2021,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,ALL,1293.0,megawatthours
+2021,56815,Denver Int Airport,SUN,Solar,CO,Colorado,PV,1463.0,megawatthours
+2021,56815,Denver Int Airport,SUN,Solar,CO,Colorado,ALL,1463.0,megawatthours
+2021,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,65702.0,megawatthours
+2021,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,65702.0,megawatthours
+2021,63753,"Platteville Solar CSG, LLC",SUN,Solar,CO,Colorado,PV,2933.0,megawatthours
+2021,63753,"Platteville Solar CSG, LLC",SUN,Solar,CO,Colorado,ALL,2933.0,megawatthours
+2021,63722,Rawhide Prairie Solar Hybrid,SUN,Solar,CO,Colorado,PV,36007.0,megawatthours
+2021,63722,Rawhide Prairie Solar Hybrid,SUN,Solar,CO,Colorado,ALL,36007.0,megawatthours
+2021,61991,"Pioneer Solar (CO), LLC",SUN,Solar,CO,Colorado,PV,146978.0,megawatthours
+2021,61991,"Pioneer Solar (CO), LLC",SUN,Solar,CO,Colorado,ALL,146978.0,megawatthours
+2021,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,PV,6354.0,megawatthours
+2021,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,ALL,6354.0,megawatthours
+2021,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,PV,3170.0,megawatthours
+2021,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,ALL,3170.0,megawatthours
+2021,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,PV,22304.0,megawatthours
+2021,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,ALL,22304.0,megawatthours
+2021,60497,SR Skylark B,SUN,Solar,CO,Colorado,PV,4396.0,megawatthours
+2021,60497,SR Skylark B,SUN,Solar,CO,Colorado,ALL,4396.0,megawatthours
+2021,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,PV,3278.0,megawatthours
+2021,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,ALL,3278.0,megawatthours
+2021,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,PV,1991.0,megawatthours
+2021,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,ALL,1991.0,megawatthours
+2021,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,PV,3852.0,megawatthours
+2021,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,ALL,3852.0,megawatthours
+2021,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,PV,3157.0,megawatthours
+2021,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,ALL,3157.0,megawatthours
+2021,63869,IBM Solar,SUN,Solar,CO,Colorado,PV,15365.0,megawatthours
+2021,63869,IBM Solar,SUN,Solar,CO,Colorado,ALL,15365.0,megawatthours
+2021,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,PV,3551.0,megawatthours
+2021,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,ALL,3551.0,megawatthours
+2021,62664,Quincy Solar,SUN,Solar,CO,Colorado,PV,3545.0,megawatthours
+2021,62664,Quincy Solar,SUN,Solar,CO,Colorado,ALL,3545.0,megawatthours
+2021,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,PV,6592.0,megawatthours
+2021,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,ALL,6592.0,megawatthours
+2021,63379,Mtn. Solar 3 CSG,SUN,Solar,CO,Colorado,PV,3487.0,megawatthours
+2021,63379,Mtn. Solar 3 CSG,SUN,Solar,CO,Colorado,ALL,3487.0,megawatthours
+2021,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,PV,1310.0,megawatthours
+2021,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,ALL,1310.0,megawatthours
+2021,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,PV,1995.0,megawatthours
+2021,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,ALL,1995.0,megawatthours
+2021,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,PV,5453.0,megawatthours
+2021,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,ALL,5453.0,megawatthours
+2021,64388,TruStile Doors - Denver,SUN,Solar,CO,Colorado,PV,599.0,megawatthours
+2021,64388,TruStile Doors - Denver,SUN,Solar,CO,Colorado,ALL,599.0,megawatthours
+2021,64386,Gilcrest V CSG,SUN,Solar,CO,Colorado,PV,9466.0,megawatthours
+2021,64386,Gilcrest V CSG,SUN,Solar,CO,Colorado,ALL,9466.0,megawatthours
+2021,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,PV,2926.0,megawatthours
+2021,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,ALL,2926.0,megawatthours
+2021,64152,SR Rattlesnake,SUN,Solar,CO,Colorado,PV,16031.0,megawatthours
+2021,64152,SR Rattlesnake,SUN,Solar,CO,Colorado,ALL,16031.0,megawatthours
+2021,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,248827.0,megawatthours
+2021,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,248827.0,megawatthours
+2021,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,PV,2093.0,megawatthours
+2021,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,ALL,2093.0,megawatthours
+2021,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,75798.0,megawatthours
+2021,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,75798.0,megawatthours
+2021,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,PV,88109.0,megawatthours
+2021,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,ALL,88109.0,megawatthours
+2021,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,PV,3508.0,megawatthours
+2021,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3508.0,megawatthours
+2021,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,PV,3614.0,megawatthours
+2021,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,ALL,3614.0,megawatthours
+2021,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,PV,3651.0,megawatthours
+2021,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,ALL,3651.0,megawatthours
+2021,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,PV,3568.0,megawatthours
+2021,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3568.0,megawatthours
+2021,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,PV,3568.0,megawatthours
+2021,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,ALL,3568.0,megawatthours
+2021,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,PV,3660.0,megawatthours
+2021,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,ALL,3660.0,megawatthours
+2021,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,PV,3711.0,megawatthours
+2021,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,ALL,3711.0,megawatthours
+2021,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,PV,3496.0,megawatthours
+2021,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,ALL,3496.0,megawatthours
+2021,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,PV,4194.0,megawatthours
+2021,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,ALL,4194.0,megawatthours
+2021,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,PV,3516.0,megawatthours
+2021,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,ALL,3516.0,megawatthours
+2021,60283,SR Mavericks,SUN,Solar,CO,Colorado,PV,14943.0,megawatthours
+2021,60283,SR Mavericks,SUN,Solar,CO,Colorado,ALL,14943.0,megawatthours
+2021,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,PV,3876.0,megawatthours
+2021,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,ALL,3876.0,megawatthours
+2021,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,PV,3736.0,megawatthours
+2021,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3736.0,megawatthours
+2021,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,PV,5260.0,megawatthours
+2021,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,ALL,5260.0,megawatthours
+2021,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,PV,46033.0,megawatthours
+2021,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,ALL,46033.0,megawatthours
+2021,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,PV,43947.0,megawatthours
+2021,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,ALL,43947.0,megawatthours
+2021,63536,Amazon DEN2 Solar Project,SUN,Solar,CO,Colorado,PV,214.0,megawatthours
+2021,63536,Amazon DEN2 Solar Project,SUN,Solar,CO,Colorado,ALL,214.0,megawatthours
+2021,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,PV,11577.0,megawatthours
+2021,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,ALL,11577.0,megawatthours
+2021,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,PV,628.0,megawatthours
+2021,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,ALL,628.0,megawatthours
+2021,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,PV,5139.0,megawatthours
+2021,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,ALL,5139.0,megawatthours
+2021,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,PV,3000.0,megawatthours
+2021,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,ALL,3000.0,megawatthours
+2021,64200,Jack's Solar Garden,SUN,Solar,CO,Colorado,PV,1958.0,megawatthours
+2021,64200,Jack's Solar Garden,SUN,Solar,CO,Colorado,ALL,1958.0,megawatthours
+2021,64031,"Fremont CO 1, LLC",SUN,Solar,CO,Colorado,PV,3932.0,megawatthours
+2021,64031,"Fremont CO 1, LLC",SUN,Solar,CO,Colorado,ALL,3932.0,megawatthours
+2021,64024,"Monte Vista Solar 2 CSG, LLC",SUN,Solar,CO,Colorado,PV,4334.0,megawatthours
+2021,64024,"Monte Vista Solar 2 CSG, LLC",SUN,Solar,CO,Colorado,ALL,4334.0,megawatthours
+2021,64021,Alden Solar CSG LLC,SUN,Solar,CO,Colorado,PV,3496.0,megawatthours
+2021,64021,Alden Solar CSG LLC,SUN,Solar,CO,Colorado,ALL,3496.0,megawatthours
+2021,63587,SR Skylark C,SUN,Solar,CO,Colorado,PV,2306.0,megawatthours
+2021,63587,SR Skylark C,SUN,Solar,CO,Colorado,ALL,2306.0,megawatthours
+2021,63586,SR Kersey II,SUN,Solar,CO,Colorado,PV,2033.0,megawatthours
+2021,63586,SR Kersey II,SUN,Solar,CO,Colorado,ALL,2033.0,megawatthours
+2021,64355,"NSE Camber BH CSG 2, LLC",SUN,Solar,CO,Colorado,PV,70.0,megawatthours
+2021,64355,"NSE Camber BH CSG 2, LLC",SUN,Solar,CO,Colorado,ALL,70.0,megawatthours
+2021,61886,Bar D,SUN,Solar,CO,Colorado,PV,9190.0,megawatthours
+2021,61886,Bar D,SUN,Solar,CO,Colorado,ALL,9190.0,megawatthours
+2021,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,62152.0,megawatthours
+2021,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,62152.0,megawatthours
+2021,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,PV,32388.0,megawatthours
+2021,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,ALL,32388.0,megawatthours
+2021,60008,Hooper Solar,SUN,Solar,CO,Colorado,PV,106355.0,megawatthours
+2021,60008,Hooper Solar,SUN,Solar,CO,Colorado,ALL,106355.0,megawatthours
+2021,62495,Palmer Solar,SUN,Solar,CO,Colorado,PV,152127.0,megawatthours
+2021,62495,Palmer Solar,SUN,Solar,CO,Colorado,ALL,152127.0,megawatthours
+2021,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,PV,1718.0,megawatthours
+2021,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,ALL,1718.0,megawatthours
+2021,59199,Mesa PV1,SUN,Solar,CO,Colorado,PV,3424.0,megawatthours
+2021,59199,Mesa PV1,SUN,Solar,CO,Colorado,ALL,3424.0,megawatthours
+2021,59198,Sterling PV 3,SUN,Solar,CO,Colorado,PV,3657.0,megawatthours
+2021,59198,Sterling PV 3,SUN,Solar,CO,Colorado,ALL,3657.0,megawatthours
+2021,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,PV,2300.0,megawatthours
+2021,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,ALL,2300.0,megawatthours
+2021,64266,Alamosa Solar South CSG,SUN,Solar,CO,Colorado,PV,4356.0,megawatthours
+2021,64266,Alamosa Solar South CSG,SUN,Solar,CO,Colorado,ALL,4356.0,megawatthours
+2021,64265,Rock Creek 2 CSG,SUN,Solar,CO,Colorado,PV,3967.0,megawatthours
+2021,64265,Rock Creek 2 CSG,SUN,Solar,CO,Colorado,ALL,3967.0,megawatthours
+2021,65178,Mtn. Solar 4 (CSG),SUN,Solar,CO,Colorado,PV,159.0,megawatthours
+2021,65178,Mtn. Solar 4 (CSG),SUN,Solar,CO,Colorado,ALL,159.0,megawatthours
+2021,65084,Pitkin County Solar,SUN,Solar,CO,Colorado,PV,994.95,megawatthours
+2021,65084,Pitkin County Solar,SUN,Solar,CO,Colorado,ALL,994.95,megawatthours
+2021,65237,Venture 4 - 1D,SUN,Solar,CO,Colorado,PV,685.0,megawatthours
+2021,65237,Venture 4 - 1D,SUN,Solar,CO,Colorado,ALL,685.0,megawatthours
+2021,65236,Venture 3 - 1C,SUN,Solar,CO,Colorado,PV,459.0,megawatthours
+2021,65236,Venture 3 - 1C,SUN,Solar,CO,Colorado,ALL,459.0,megawatthours
+2021,65235,Venture 2 - 1B,SUN,Solar,CO,Colorado,PV,712.0,megawatthours
+2021,65235,Venture 2 - 1B,SUN,Solar,CO,Colorado,ALL,712.0,megawatthours
+2021,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,PV,2242.0,megawatthours
+2021,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,ALL,2242.0,megawatthours
+2021,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,PV,2237.0,megawatthours
+2021,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,ALL,2237.0,megawatthours
+2021,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,PV,3013.0,megawatthours
+2021,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,ALL,3013.0,megawatthours
+2021,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,PV,3313.0,megawatthours
+2021,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,ALL,3313.0,megawatthours
+2021,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,PV,36700.0,megawatthours
+2020,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,ALL,1205.0,megawatthours
+2020,63092,Riverview Solar,SUN,Solar,CO,Colorado,PV,3517.0,megawatthours
+2020,63092,Riverview Solar,SUN,Solar,CO,Colorado,ALL,3517.0,megawatthours
+2020,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,PV,3694.0,megawatthours
+2020,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,ALL,3694.0,megawatthours
+2020,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,PV,3652.0,megawatthours
+2020,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,ALL,3652.0,megawatthours
+2020,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,PV,3556.0,megawatthours
+2020,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,ALL,3556.0,megawatthours
+2020,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,PV,24014.0,megawatthours
+2020,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,ALL,24014.0,megawatthours
+2020,64265,Rock Creek 2 CSG,SUN,Solar,CO,Colorado,PV,28.0,megawatthours
+2020,64265,Rock Creek 2 CSG,SUN,Solar,CO,Colorado,ALL,28.0,megawatthours
+2020,64200,Jack's Solar Garden,SUN,Solar,CO,Colorado,PV,223.0,megawatthours
+2020,64200,Jack's Solar Garden,SUN,Solar,CO,Colorado,ALL,223.0,megawatthours
+2020,61886,Bar D,SUN,Solar,CO,Colorado,PV,9734.0,megawatthours
+2020,61886,Bar D,SUN,Solar,CO,Colorado,ALL,9734.0,megawatthours
+2020,63869,IBM Solar,SUN,Solar,CO,Colorado,PV,15411.0,megawatthours
+2020,63869,IBM Solar,SUN,Solar,CO,Colorado,ALL,15411.0,megawatthours
+2020,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,PV,2397.0,megawatthours
+2020,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,ALL,2397.0,megawatthours
+2020,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,PV,1967.0,megawatthours
+2020,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,ALL,1967.0,megawatthours
+2020,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3765.0,megawatthours
+2020,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3765.0,megawatthours
+2020,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,3666.0,megawatthours
+2020,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3666.0,megawatthours
+2020,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,PV,3748.0,megawatthours
+2020,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3748.0,megawatthours
+2020,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,4087.0,megawatthours
+2020,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,4087.0,megawatthours
+2020,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3328.0,megawatthours
+2020,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3328.0,megawatthours
+2020,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3533.0,megawatthours
+2020,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,PV,1112.0,megawatthours
+2020,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,ALL,1112.0,megawatthours
+2020,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,PV,2281.0,megawatthours
+2020,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,ALL,2281.0,megawatthours
+2020,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,PV,4841.0,megawatthours
+2020,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,ALL,4841.0,megawatthours
+2020,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,PV,2624.0,megawatthours
+2020,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,ALL,2624.0,megawatthours
+2020,58481,CSU Pueblo,SUN,Solar,CO,Colorado,PV,1837.0,megawatthours
+2020,58481,CSU Pueblo,SUN,Solar,CO,Colorado,ALL,1837.0,megawatthours
+2020,63681,Oak Leaf Solar XXXIII LLC (Lantz),SUN,Solar,CO,Colorado,PV,3691.0,megawatthours
+2020,63681,Oak Leaf Solar XXXIII LLC (Lantz),SUN,Solar,CO,Colorado,ALL,3691.0,megawatthours
+2020,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,PV,3349.0,megawatthours
+2020,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,ALL,3349.0,megawatthours
+2020,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,PV,37033.0,megawatthours
+2020,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,ALL,37033.0,megawatthours
+2020,61439,Panasonic Carport Solar Hybrid,SUN,Solar,CO,Colorado,PV,2166.0,megawatthours
+2020,61439,Panasonic Carport Solar Hybrid,SUN,Solar,CO,Colorado,ALL,2166.0,megawatthours
+2020,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,PV,3223.0,megawatthours
+2020,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,ALL,3223.0,megawatthours
+2020,64031,"Fremont CO 1, LLC",SUN,Solar,CO,Colorado,PV,3115.0,megawatthours
+2020,64031,"Fremont CO 1, LLC",SUN,Solar,CO,Colorado,ALL,3115.0,megawatthours
+2020,64024,"Monte Vista Solar 2 CSG, LLC",SUN,Solar,CO,Colorado,PV,2526.0,megawatthours
+2020,64024,"Monte Vista Solar 2 CSG, LLC",SUN,Solar,CO,Colorado,ALL,2526.0,megawatthours
+2020,64021,Alden Solar CSG LLC,SUN,Solar,CO,Colorado,PV,2579.0,megawatthours
+2020,64021,Alden Solar CSG LLC,SUN,Solar,CO,Colorado,ALL,2579.0,megawatthours
+2020,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,PV,10285.0,megawatthours
+2020,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,ALL,10285.0,megawatthours
+2020,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,PV,6507.0,megawatthours
+2020,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,ALL,6507.0,megawatthours
+2020,63753,"Platteville Solar CSG, LLC",SUN,Solar,CO,Colorado,PV,2813.0,megawatthours
+2020,63753,"Platteville Solar CSG, LLC",SUN,Solar,CO,Colorado,ALL,2813.0,megawatthours
+2020,63722,Rawhide Prairie Solar Hybrid,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2020,63722,Rawhide Prairie Solar Hybrid,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2020,60008,Hooper Solar,SUN,Solar,CO,Colorado,PV,125372.0,megawatthours
+2020,60008,Hooper Solar,SUN,Solar,CO,Colorado,ALL,125372.0,megawatthours
+2020,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,PV,2607.0,megawatthours
+2020,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,ALL,2607.0,megawatthours
+2020,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,77455.0,megawatthours
+2020,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,77455.0,megawatthours
+2020,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,PV,32777.0,megawatthours
+2020,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,ALL,32777.0,megawatthours
+2020,64152,SR Rattlesnake,SUN,Solar,CO,Colorado,PV,1104.0,megawatthours
+2020,64152,SR Rattlesnake,SUN,Solar,CO,Colorado,ALL,1104.0,megawatthours
+2020,63587,SR Skylark C,SUN,Solar,CO,Colorado,PV,2282.0,megawatthours
+2020,63587,SR Skylark C,SUN,Solar,CO,Colorado,ALL,2282.0,megawatthours
+2020,63586,SR Kersey II,SUN,Solar,CO,Colorado,PV,2133.0,megawatthours
+2020,63586,SR Kersey II,SUN,Solar,CO,Colorado,ALL,2133.0,megawatthours
+2020,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,PV,3754.0,megawatthours
+2020,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,ALL,3754.0,megawatthours
+2020,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,PV,3582.0,megawatthours
+2020,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,ALL,3582.0,megawatthours
+2020,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,PV,3400.0,megawatthours
+2020,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,ALL,3400.0,megawatthours
+2020,63379,Mtn. Solar 3 CSG,SUN,Solar,CO,Colorado,PV,3503.0,megawatthours
+2020,63379,Mtn. Solar 3 CSG,SUN,Solar,CO,Colorado,ALL,3503.0,megawatthours
+2020,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,PV,5145.0,megawatthours
+2020,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,ALL,5145.0,megawatthours
+2020,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,PV,3758.0,megawatthours
+2020,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3758.0,megawatthours
+2020,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,PV,3551.0,megawatthours
+2020,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3551.0,megawatthours
+2020,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,PV,3734.0,megawatthours
+2020,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,ALL,3734.0,megawatthours
+2020,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,PV,3246.0,megawatthours
+2020,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,ALL,3246.0,megawatthours
+2020,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,PV,3730.0,megawatthours
+2020,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,ALL,3730.0,megawatthours
+2020,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,PV,3704.0,megawatthours
+2020,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,ALL,3704.0,megawatthours
+2020,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,PV,3278.0,megawatthours
+2020,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,ALL,3278.0,megawatthours
+2020,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,PV,3674.0,megawatthours
+2020,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,ALL,3674.0,megawatthours
+2020,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,PV,3669.0,megawatthours
+2020,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,ALL,3669.0,megawatthours
+2020,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,PV,4139.0,megawatthours
+2020,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,ALL,4139.0,megawatthours
+2020,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,PV,3539.0,megawatthours
+2020,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,ALL,3539.0,megawatthours
+2020,63536,Amazon DEN2 Solar Project,SUN,Solar,CO,Colorado,PV,1729.0,megawatthours
+2020,63536,Amazon DEN2 Solar Project,SUN,Solar,CO,Colorado,ALL,1729.0,megawatthours
+2020,61811,Titan Solar,SUN,Solar,CO,Colorado,PV,102015.0,megawatthours
+2020,61811,Titan Solar,SUN,Solar,CO,Colorado,ALL,102015.0,megawatthours
+2020,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,PV,27593.0,megawatthours
+2020,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,ALL,27593.0,megawatthours
+2020,61314,SR Kersey,SUN,Solar,CO,Colorado,PV,8443.0,megawatthours
+2020,61314,SR Kersey,SUN,Solar,CO,Colorado,ALL,8443.0,megawatthours
+2020,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,PV,1707.0,megawatthours
+2020,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,ALL,1707.0,megawatthours
+2020,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,PV,86395.0,megawatthours
+2020,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,ALL,86395.0,megawatthours
+2020,60497,SR Skylark B,SUN,Solar,CO,Colorado,PV,4455.0,megawatthours
+2020,60497,SR Skylark B,SUN,Solar,CO,Colorado,ALL,4455.0,megawatthours
+2020,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,290731.0,megawatthours
+2020,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,290731.0,megawatthours
+2020,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,PV,3974.0,megawatthours
+2020,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,ALL,3974.0,megawatthours
+2020,62495,Palmer Solar,SUN,Solar,CO,Colorado,PV,124949.0,megawatthours
+2020,62495,Palmer Solar,SUN,Solar,CO,Colorado,ALL,124949.0,megawatthours
+2020,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3533.0,megawatthours
+2020,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,62800.0,megawatthours
+2020,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,62800.0,megawatthours
+2020,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,PV,3673.0,megawatthours
+2020,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,ALL,3673.0,megawatthours
+2020,62664,Quincy Solar,SUN,Solar,CO,Colorado,PV,3150.0,megawatthours
+2020,62664,Quincy Solar,SUN,Solar,CO,Colorado,ALL,3150.0,megawatthours
+2020,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,PV,3298.0,megawatthours
+2020,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,ALL,3298.0,megawatthours
+2020,59199,Mesa PV1,SUN,Solar,CO,Colorado,PV,3441.0,megawatthours
+2020,59199,Mesa PV1,SUN,Solar,CO,Colorado,ALL,3441.0,megawatthours
+2020,59198,Sterling PV 3,SUN,Solar,CO,Colorado,PV,3758.0,megawatthours
+2020,59198,Sterling PV 3,SUN,Solar,CO,Colorado,ALL,3758.0,megawatthours
+2020,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,PV,3260.0,megawatthours
+2020,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,ALL,3260.0,megawatthours
+2020,60283,SR Mavericks,SUN,Solar,CO,Colorado,PV,15187.0,megawatthours
+2020,60283,SR Mavericks,SUN,Solar,CO,Colorado,ALL,15187.0,megawatthours
+2020,60248,Skylark,SUN,Solar,CO,Colorado,PV,9341.0,megawatthours
+2020,60248,Skylark,SUN,Solar,CO,Colorado,ALL,9341.0,megawatthours
+2020,60247,Valley View Solar,SUN,Solar,CO,Colorado,PV,10595.0,megawatthours
+2020,60247,Valley View Solar,SUN,Solar,CO,Colorado,ALL,10595.0,megawatthours
+2020,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,PV,3057.0,megawatthours
+2020,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,ALL,3057.0,megawatthours
+2020,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,PV,8068.0,megawatthours
+2020,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,ALL,8068.0,megawatthours
+2020,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,PV,3381.0,megawatthours
+2020,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,ALL,3381.0,megawatthours
+2020,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,PV,3723.0,megawatthours
+2020,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,ALL,3723.0,megawatthours
+2020,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,PV,11147.0,megawatthours
+2020,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,ALL,11147.0,megawatthours
+2020,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,76510.0,megawatthours
+2020,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,PV,47760.0,megawatthours
+2020,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,ALL,47760.0,megawatthours
+2020,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,PV,54193.0,megawatthours
+2020,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,ALL,54193.0,megawatthours
+2020,56815,Denver Int Airport,SUN,Solar,CO,Colorado,PV,2284.0,megawatthours
+2020,56815,Denver Int Airport,SUN,Solar,CO,Colorado,ALL,2284.0,megawatthours
+2020,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,76510.0,megawatthours
+2020,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,PV,7201.0,megawatthours
+2020,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,ALL,7201.0,megawatthours
+2020,57509,Carson Solar I,SUN,Solar,CO,Colorado,PV,2287.0,megawatthours
+2020,57509,Carson Solar I,SUN,Solar,CO,Colorado,ALL,2287.0,megawatthours
+2020,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,PV,3930.0,megawatthours
+2020,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,ALL,3930.0,megawatthours
+2020,56481,SunE Alamosa,SUN,Solar,CO,Colorado,PV,14258.0,megawatthours
+2020,56481,SunE Alamosa,SUN,Solar,CO,Colorado,ALL,14258.0,megawatthours
+2020,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,PV,2998.0,megawatthours
+2020,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,ALL,2998.0,megawatthours
+2020,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,PV,3000.0,megawatthours
+2020,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,ALL,3000.0,megawatthours
+2020,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,PV,2744.0,megawatthours
+2020,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,ALL,2744.0,megawatthours
+2020,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,PV,1205.0,megawatthours
+2019,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,ALL,6740.0,megawatthours
+2019,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,PV,9341.0,megawatthours
+2019,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,ALL,9341.0,megawatthours
+2019,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,PV,6427.0,megawatthours
+2019,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,ALL,6427.0,megawatthours
+2019,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,PV,30883.0,megawatthours
+2019,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,ALL,30883.0,megawatthours
+2019,60008,Hooper Solar,SUN,Solar,CO,Colorado,PV,123382.0,megawatthours
+2019,60008,Hooper Solar,SUN,Solar,CO,Colorado,ALL,123382.0,megawatthours
+2019,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,PV,2933.37,megawatthours
+2019,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,ALL,2933.37,megawatthours
+2019,63092,Riverview Solar,SUN,Solar,CO,Colorado,PV,216.0,megawatthours
+2019,63092,Riverview Solar,SUN,Solar,CO,Colorado,ALL,216.0,megawatthours
+2019,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,PV,4840.0,megawatthours
+2019,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,ALL,4840.0,megawatthours
+2019,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,PV,2929.0,megawatthours
+2019,62256,Oak Leaf Solar XXIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,2929.0,megawatthours
+2019,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,PV,2077.0,megawatthours
+2019,62255,Oak Leaf Solar XXVIII LLC (CSG),SUN,Solar,CO,Colorado,ALL,2077.0,megawatthours
+2019,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,PV,2848.0,megawatthours
+2019,62254,Oak Leaf Solar XXVI LLC,SUN,Solar,CO,Colorado,ALL,2848.0,megawatthours
+2019,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,PV,2817.0,megawatthours
+2019,62253,Oak Leaf Solar XXIV LLC (CSG),SUN,Solar,CO,Colorado,ALL,2817.0,megawatthours
+2019,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,PV,2821.0,megawatthours
+2019,62252,Oak Leaf Solar XXII LLC (CSG),SUN,Solar,CO,Colorado,ALL,2821.0,megawatthours
+2019,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,PV,2476.0,megawatthours
+2019,62719,Mesa CSG 1 Murdock,SUN,Solar,CO,Colorado,ALL,2476.0,megawatthours
+2019,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,PV,2063.0,megawatthours
+2019,62718,Mesa CSG 2 Massicotte,SUN,Solar,CO,Colorado,ALL,2063.0,megawatthours
+2019,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,PV,143.0,megawatthours
+2019,63164,Whiskey Hill Solar,SUN,Solar,CO,Colorado,ALL,143.0,megawatthours
+2019,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,PV,97.0,megawatthours
+2019,63163,Tom Sifers Solar,SUN,Solar,CO,Colorado,ALL,97.0,megawatthours
+2019,60283,SR Mavericks,SUN,Solar,CO,Colorado,PV,13870.0,megawatthours
+2019,60283,SR Mavericks,SUN,Solar,CO,Colorado,ALL,13870.0,megawatthours
+2019,60248,Skylark,SUN,Solar,CO,Colorado,PV,8748.0,megawatthours
+2019,60248,Skylark,SUN,Solar,CO,Colorado,ALL,8748.0,megawatthours
+2019,60247,Valley View Solar,SUN,Solar,CO,Colorado,PV,9626.0,megawatthours
+2019,60247,Valley View Solar,SUN,Solar,CO,Colorado,ALL,9626.0,megawatthours
+2019,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,PV,3276.0,megawatthours
+2019,62667,Lafayette Horizon Solar CSG LLC,SUN,Solar,CO,Colorado,ALL,3276.0,megawatthours
+2019,62664,Quincy Solar,SUN,Solar,CO,Colorado,PV,3426.0,megawatthours
+2019,62664,Quincy Solar,SUN,Solar,CO,Colorado,ALL,3426.0,megawatthours
+2019,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,PV,3348.0,megawatthours
+2019,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,ALL,3348.0,megawatthours
+2019,61886,Bar D,SUN,Solar,CO,Colorado,PV,5902.0,megawatthours
+2019,61886,Bar D,SUN,Solar,CO,Colorado,ALL,5902.0,megawatthours
+2019,61811,Titan Solar,SUN,Solar,CO,Colorado,PV,103639.0,megawatthours
+2019,61811,Titan Solar,SUN,Solar,CO,Colorado,ALL,103639.0,megawatthours
+2019,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,PV,3229.0,megawatthours
+2019,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,ALL,3229.0,megawatthours
+2019,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,PV,37769.0,megawatthours
+2019,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,ALL,37769.0,megawatthours
+2019,61439,Panasonic Carport Solar Hybrid,SUN,Solar,CO,Colorado,PV,2190.0,megawatthours
+2019,61439,Panasonic Carport Solar Hybrid,SUN,Solar,CO,Colorado,ALL,2190.0,megawatthours
+2019,58481,CSU Pueblo,SUN,Solar,CO,Colorado,PV,1801.0,megawatthours
+2019,58481,CSU Pueblo,SUN,Solar,CO,Colorado,ALL,1801.0,megawatthours
+2019,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3467.0,megawatthours
+2019,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3467.0,megawatthours
+2019,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,2952.0,megawatthours
+2019,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,2952.0,megawatthours
+2019,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,PV,3620.0,megawatthours
+2019,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3620.0,megawatthours
+2019,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3613.0,megawatthours
+2019,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3613.0,megawatthours
+2019,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3027.0,megawatthours
+2019,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3027.0,megawatthours
+2019,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3045.0,megawatthours
+2019,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3045.0,megawatthours
+2019,63587,SR Skylark C,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2019,63587,SR Skylark C,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2019,63586,SR Kersey II,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2019,63586,SR Kersey II,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2019,63536,Amazon_DEN2,SUN,Solar,CO,Colorado,PV,440.0,megawatthours
+2019,63536,Amazon_DEN2,SUN,Solar,CO,Colorado,ALL,440.0,megawatthours
+2019,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,PV,6357.0,megawatthours
+2019,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,ALL,6357.0,megawatthours
+2019,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,PV,3386.0,megawatthours
+2019,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,ALL,3386.0,megawatthours
+2019,59199,Mesa PV1,SUN,Solar,CO,Colorado,PV,3283.0,megawatthours
+2019,59199,Mesa PV1,SUN,Solar,CO,Colorado,ALL,3283.0,megawatthours
+2019,59198,Sterling PV 3,SUN,Solar,CO,Colorado,PV,3594.0,megawatthours
+2019,59198,Sterling PV 3,SUN,Solar,CO,Colorado,ALL,3594.0,megawatthours
+2019,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,PV,23755.0,megawatthours
+2019,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,ALL,23755.0,megawatthours
+2019,60497,SR Skylark B,SUN,Solar,CO,Colorado,PV,4553.0,megawatthours
+2019,60497,SR Skylark B,SUN,Solar,CO,Colorado,ALL,4553.0,megawatthours
+2019,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,PV,760.0,megawatthours
+2019,63278,CO LI CSG 1 - Kamerra,SUN,Solar,CO,Colorado,ALL,760.0,megawatthours
+2019,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,PV,998.0,megawatthours
+2019,63277,Mtn. Solar 2,SUN,Solar,CO,Colorado,ALL,998.0,megawatthours
+2019,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,PV,1250.0,megawatthours
+2019,63276,Mtn. Solar 1,SUN,Solar,CO,Colorado,ALL,1250.0,megawatthours
+2019,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,PV,3226.0,megawatthours
+2019,62251,Oak Leaf Solar XXXII (CSG),SUN,Solar,CO,Colorado,ALL,3226.0,megawatthours
+2019,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,PV,2879.0,megawatthours
+2019,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,ALL,2879.0,megawatthours
+2019,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,PV,3601.0,megawatthours
+2019,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,ALL,3601.0,megawatthours
+2019,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,PV,3662.0,megawatthours
+2019,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,ALL,3662.0,megawatthours
+2019,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,PV,4117.0,megawatthours
+2019,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,ALL,4117.0,megawatthours
+2019,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,PV,3460.0,megawatthours
+2019,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,ALL,3460.0,megawatthours
+2019,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,PV,3000.0,megawatthours
+2019,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,ALL,3000.0,megawatthours
+2019,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,PV,4182.0,megawatthours
+2019,60801,"CEC Solar #1117, LLC",SUN,Solar,CO,Colorado,ALL,4182.0,megawatthours
+2019,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,PV,29236.0,megawatthours
+2019,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,ALL,29236.0,megawatthours
+2019,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,PV,198.0,megawatthours
+2019,62877,Amazon Denver DEN3,SUN,Solar,CO,Colorado,ALL,198.0,megawatthours
+2019,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,61276.0,megawatthours
+2019,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,61276.0,megawatthours
+2019,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,PV,3697.0,megawatthours
+2019,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,ALL,3697.0,megawatthours
+2019,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,PV,2460.0,megawatthours
+2019,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,ALL,2460.0,megawatthours
+2019,63869,IBM Solar,SUN,Solar,CO,Colorado,PV,6445.0,megawatthours
+2019,63869,IBM Solar,SUN,Solar,CO,Colorado,ALL,6445.0,megawatthours
+2019,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,74051.0,megawatthours
+2019,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,74051.0,megawatthours
+2019,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,PV,1529.0,megawatthours
+2019,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,ALL,1529.0,megawatthours
+2019,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,PV,4545.0,megawatthours
+2019,62376,Grazing Yak Solar,SUN,Solar,CO,Colorado,ALL,4545.0,megawatthours
+2019,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,PV,3125.0,megawatthours
+2019,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,ALL,3125.0,megawatthours
+2019,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,PV,1255.0,megawatthours
+2019,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,ALL,1255.0,megawatthours
+2019,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,PV,3323.0,megawatthours
+2019,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,ALL,3323.0,megawatthours
+2019,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,PV,4048.0,megawatthours
+2019,59848,Pikes Peak Solar Garden 1 LLC CSG,SUN,Solar,CO,Colorado,ALL,4048.0,megawatthours
+2019,61314,SR Kersey,SUN,Solar,CO,Colorado,PV,8252.0,megawatthours
+2019,61314,SR Kersey,SUN,Solar,CO,Colorado,ALL,8252.0,megawatthours
+2019,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,PV,2555.0,megawatthours
+2019,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,ALL,2555.0,megawatthours
+2019,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,PV,2909.0,megawatthours
+2019,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,ALL,2909.0,megawatthours
+2019,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,290821.0,megawatthours
+2019,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,290821.0,megawatthours
+2019,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,PV,3007.0,megawatthours
+2019,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,ALL,3007.0,megawatthours
+2019,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,PV,2852.0,megawatthours
+2019,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,ALL,2852.0,megawatthours
+2019,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,PV,11093.0,megawatthours
+2019,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,ALL,11093.0,megawatthours
+2019,57509,Carson Solar I,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2019,57509,Carson Solar I,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2019,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,PV,4579.0,megawatthours
+2019,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,ALL,4579.0,megawatthours
+2019,56481,SunE Alamosa,SUN,Solar,CO,Colorado,PV,15517.0,megawatthours
+2019,56481,SunE Alamosa,SUN,Solar,CO,Colorado,ALL,15517.0,megawatthours
+2019,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,72817.0,megawatthours
+2019,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,72817.0,megawatthours
+2019,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,PV,1380.0,megawatthours
+2019,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,ALL,1380.0,megawatthours
+2019,56815,Denver Int Airport,SUN,Solar,CO,Colorado,PV,2092.0,megawatthours
+2019,56815,Denver Int Airport,SUN,Solar,CO,Colorado,ALL,2092.0,megawatthours
+2019,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,PV,46834.0,megawatthours
+2019,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,ALL,46834.0,megawatthours
+2019,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,PV,54831.0,megawatthours
+2019,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,ALL,54831.0,megawatthours
+2019,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,PV,6740.0,megawatthours
+2018,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,ALL,3000.0,megawatthours
+2018,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,PV,1683.0,megawatthours
+2018,61753,Imboden Solar Garden,SUN,Solar,CO,Colorado,ALL,1683.0,megawatthours
+2018,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,PV,2335.0,megawatthours
+2018,61752,Quincy II Solar Garden,SUN,Solar,CO,Colorado,ALL,2335.0,megawatthours
+2018,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,PV,1279.0,megawatthours
+2018,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,ALL,1279.0,megawatthours
+2018,61811,Titan Solar,SUN,Solar,CO,Colorado,PV,2399.0,megawatthours
+2018,61811,Titan Solar,SUN,Solar,CO,Colorado,ALL,2399.0,megawatthours
+2018,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,PV,1545.0,megawatthours
+2018,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,ALL,1545.0,megawatthours
+2018,59199,Mesa PV1,SUN,Solar,CO,Colorado,PV,3303.0,megawatthours
+2018,59199,Mesa PV1,SUN,Solar,CO,Colorado,ALL,3303.0,megawatthours
+2018,59198,Sterling PV 3,SUN,Solar,CO,Colorado,PV,4445.0,megawatthours
+2018,59198,Sterling PV 3,SUN,Solar,CO,Colorado,ALL,4445.0,megawatthours
+2018,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,PV,3442.0,megawatthours
+2018,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,ALL,3442.0,megawatthours
+2018,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,PV,7034.0,megawatthours
+2018,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,ALL,7034.0,megawatthours
+2018,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,PV,3391.0,megawatthours
+2018,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,ALL,3391.0,megawatthours
+2018,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,PV,3707.0,megawatthours
+2018,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,ALL,3707.0,megawatthours
+2018,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,PV,7326.0,megawatthours
+2018,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,ALL,7326.0,megawatthours
+2018,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,PV,6473.0,megawatthours
+2018,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,ALL,6473.0,megawatthours
+2018,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,PV,11799.0,megawatthours
+2018,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,ALL,11799.0,megawatthours
+2018,57509,Carson Solar I,SUN,Solar,CO,Colorado,PV,1645.0,megawatthours
+2018,57509,Carson Solar I,SUN,Solar,CO,Colorado,ALL,1645.0,megawatthours
+2018,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,PV,4419.0,megawatthours
+2018,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,ALL,4419.0,megawatthours
+2018,61886,Bar D,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,61886,Bar D,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,ALL,47439.0,megawatthours
+2018,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,PV,59148.0,megawatthours
+2018,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,ALL,59148.0,megawatthours
+2018,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,PV,27238.0,megawatthours
+2018,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,ALL,27238.0,megawatthours
+2018,60497,SR Skylark B,SUN,Solar,CO,Colorado,PV,4548.0,megawatthours
+2018,60497,SR Skylark B,SUN,Solar,CO,Colorado,ALL,4548.0,megawatthours
+2018,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,77687.0,megawatthours
+2018,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,77687.0,megawatthours
+2018,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,PV,47439.0,megawatthours
+2018,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,PV,2576.0,megawatthours
+2018,60320,Jeffco Community Solar Gardens LLC,SUN,Solar,CO,Colorado,ALL,2576.0,megawatthours
+2018,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,75417.0,megawatthours
+2018,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,75417.0,megawatthours
+2018,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,64356.0,megawatthours
+2018,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,64356.0,megawatthours
+2018,60283,SR Mavericks,SUN,Solar,CO,Colorado,PV,14696.0,megawatthours
+2018,60283,SR Mavericks,SUN,Solar,CO,Colorado,ALL,14696.0,megawatthours
+2018,60248,Skylark,SUN,Solar,CO,Colorado,PV,9195.0,megawatthours
+2018,60248,Skylark,SUN,Solar,CO,Colorado,ALL,9195.0,megawatthours
+2018,60247,Valley View Solar,SUN,Solar,CO,Colorado,PV,7881.0,megawatthours
+2018,60247,Valley View Solar,SUN,Solar,CO,Colorado,ALL,7881.0,megawatthours
+2018,58481,CSU Pueblo,SUN,Solar,CO,Colorado,PV,1849.0,megawatthours
+2018,58481,CSU Pueblo,SUN,Solar,CO,Colorado,ALL,1849.0,megawatthours
+2018,60008,Hooper Solar,SUN,Solar,CO,Colorado,PV,127547.0,megawatthours
+2018,60008,Hooper Solar,SUN,Solar,CO,Colorado,ALL,127547.0,megawatthours
+2018,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,PV,31290.0,megawatthours
+2018,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,ALL,31290.0,megawatthours
+2018,61439,Panasonic Carport Solar,SUN,Solar,CO,Colorado,PV,2230.0,megawatthours
+2018,61439,Panasonic Carport Solar,SUN,Solar,CO,Colorado,ALL,2230.0,megawatthours
+2018,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,PV,3046.23,megawatthours
+2018,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,ALL,3046.23,megawatthours
+2018,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,PV,3348.0,megawatthours
+2018,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,ALL,3348.0,megawatthours
+2018,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,PV,38754.0,megawatthours
+2018,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,ALL,38754.0,megawatthours
+2018,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,PV,874.0,megawatthours
+2018,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,ALL,874.0,megawatthours
+2018,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,PV,2530.0,megawatthours
+2018,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,ALL,2530.0,megawatthours
+2018,59848,Pikes Peak Solar Garden 1 LLC,SUN,Solar,CO,Colorado,PV,3960.0,megawatthours
+2018,59848,Pikes Peak Solar Garden 1 LLC,SUN,Solar,CO,Colorado,ALL,3960.0,megawatthours
+2018,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,PV,2507.0,megawatthours
+2018,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,ALL,2507.0,megawatthours
+2018,60801,BHE Pueblo 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,1729.0,megawatthours
+2018,60801,BHE Pueblo 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,1729.0,megawatthours
+2018,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,PV,29678.0,megawatthours
+2018,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,ALL,29678.0,megawatthours
+2018,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3604.0,megawatthours
+2018,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3604.0,megawatthours
+2018,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,2756.0,megawatthours
+2018,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,2756.0,megawatthours
+2018,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,PV,2767.0,megawatthours
+2018,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,ALL,2767.0,megawatthours
+2018,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,3620.0,megawatthours
+2018,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,3620.0,megawatthours
+2018,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,2777.0,megawatthours
+2018,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,2777.0,megawatthours
+2018,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,2192.0,megawatthours
+2018,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,2192.0,megawatthours
+2018,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62260,Trout Creek Solar,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62245,Oak Leaf Solar XXV LLC (CSG),SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62244,Oak Leaf Solar XXXI LLC (CSG),SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62243,Oak Leaf Solar XXI (CSG),SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62239,Oak Leaf Solar XXX LLC (CSG),SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62224,Oak Leaf Solar XXVII LLC,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62664,Quincy Solar,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2018,62664,Quincy Solar,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2018,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,PV,231.0,megawatthours
+2018,62663,Gilcrest Solar,SUN,Solar,CO,Colorado,ALL,231.0,megawatthours
+2018,56481,SunE Alamosa,SUN,Solar,CO,Colorado,PV,15939.0,megawatthours
+2018,56481,SunE Alamosa,SUN,Solar,CO,Colorado,ALL,15939.0,megawatthours
+2018,61314,SR Kersey,SUN,Solar,CO,Colorado,PV,8423.0,megawatthours
+2018,61314,SR Kersey,SUN,Solar,CO,Colorado,ALL,8423.0,megawatthours
+2018,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,297860.0,megawatthours
+2018,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,297860.0,megawatthours
+2018,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,PV,3205.0,megawatthours
+2018,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,ALL,3205.0,megawatthours
+2018,56815,Denver Int Airport,SUN,Solar,CO,Colorado,PV,2539.0,megawatthours
+2018,56815,Denver Int Airport,SUN,Solar,CO,Colorado,ALL,2539.0,megawatthours
+2018,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,PV,2960.0,megawatthours
+2018,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,ALL,2960.0,megawatthours
+2018,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,PV,3000.0,megawatthours
+2017,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,ALL,2967.0,megawatthours
+2017,59462,Denver Intl Airport IV Solar,SUN,Solar,CO,Colorado,PV,2967.0,megawatthours
+2017,56815,Denver Int Airport,SUN,Solar,CO,Colorado,ALL,2812.0,megawatthours
+2017,56815,Denver Int Airport,SUN,Solar,CO,Colorado,PV,2812.0,megawatthours
+2017,58481,CSU Pueblo,SUN,Solar,CO,Colorado,ALL,1583.0,megawatthours
+2017,58481,CSU Pueblo,SUN,Solar,CO,Colorado,PV,1583.0,megawatthours
+2017,60008,Hooper Solar,SUN,Solar,CO,Colorado,ALL,125358.0,megawatthours
+2017,60008,Hooper Solar,SUN,Solar,CO,Colorado,PV,125358.0,megawatthours
+2017,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,ALL,2590.0,megawatthours
+2017,59807,Airport 1 Solar (DIA),SUN,Solar,CO,Colorado,PV,2590.0,megawatthours
+2017,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,ALL,30512.0,megawatthours
+2017,60023,SR Jenkins Ft Lupton,SUN,Solar,CO,Colorado,PV,30512.0,megawatthours
+2017,59848,Pikes Peak Solar Garden 1 LLC,SUN,Solar,CO,Colorado,ALL,3524.0,megawatthours
+2017,59848,Pikes Peak Solar Garden 1 LLC,SUN,Solar,CO,Colorado,PV,3524.0,megawatthours
+2017,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,ALL,781.0,megawatthours
+2017,59849,Adams Community Solar Garden LLC,SUN,Solar,CO,Colorado,PV,781.0,megawatthours
+2017,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,ALL,2447.0,megawatthours
+2017,59850,Adams Community Solar Garden III LLC,SUN,Solar,CO,Colorado,PV,2447.0,megawatthours
+2017,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,ALL,475.0,megawatthours
+2017,61425,Coyote Ridge Community Solar,SUN,Solar,CO,Colorado,PV,475.0,megawatthours
+2017,61314,SR Kersey,SUN,Solar,CO,Colorado,ALL,1773.0,megawatthours
+2017,61314,SR Kersey,SUN,Solar,CO,Colorado,PV,1773.0,megawatthours
+2017,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,ALL,3350.0,megawatthours
+2017,57141,RV CSU Power LLC,SUN,Solar,CO,Colorado,PV,3350.0,megawatthours
+2017,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,ALL,3278.0,megawatthours
+2017,59742,Sunnyside Ranch Community Solar Array,SUN,Solar,CO,Colorado,PV,3278.0,megawatthours
+2017,59656,Comanche Solar,SUN,Solar,CO,Colorado,ALL,285438.0,megawatthours
+2017,59656,Comanche Solar,SUN,Solar,CO,Colorado,PV,285438.0,megawatthours
+2017,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,ALL,44.0,megawatthours
+2017,61563,Denver Metro Solar,SUN,Solar,CO,Colorado,PV,44.0,megawatthours
+2017,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,ALL,1216.0,megawatthours
+2017,61605,San Luis Valley Solar Array,SUN,Solar,CO,Colorado,PV,1216.0,megawatthours
+2017,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,ALL,198.0,megawatthours
+2017,61606,Vilas Solar Array,SUN,Solar,CO,Colorado,PV,198.0,megawatthours
+2017,61439,Panasonic Carport Solar,SUN,Solar,CO,Colorado,ALL,1570.0,megawatthours
+2017,61439,Panasonic Carport Solar,SUN,Solar,CO,Colorado,PV,1570.0,megawatthours
+2017,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,ALL,2578.0,megawatthours
+2017,61462,SR Platte Solar Farm,SUN,Solar,CO,Colorado,PV,2578.0,megawatthours
+2017,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,ALL,901.0,megawatthours
+2017,61472,San Luis Solar Garden,SUN,Solar,CO,Colorado,PV,901.0,megawatthours
+2017,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,ALL,2809.0,megawatthours
+2017,56922,WWRF Solar Plant,SUN,Solar,CO,Colorado,PV,2809.0,megawatthours
+2017,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,ALL,29146.0,megawatthours
+2017,60764,Victory Solar LLC,SUN,Solar,CO,Colorado,PV,29146.0,megawatthours
+2017,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,ALL,4734.0,megawatthours
+2017,57507,RV CSU Power II LLC,SUN,Solar,CO,Colorado,PV,4734.0,megawatthours
+2017,57509,Carson Solar I,SUN,Solar,CO,Colorado,ALL,2189.0,megawatthours
+2017,57509,Carson Solar I,SUN,Solar,CO,Colorado,PV,2189.0,megawatthours
+2017,60247,Valley View Solar,SUN,Solar,CO,Colorado,ALL,9103.0,megawatthours
+2017,60247,Valley View Solar,SUN,Solar,CO,Colorado,PV,9103.0,megawatthours
+2017,60248,Skylark,SUN,Solar,CO,Colorado,ALL,9121.0,megawatthours
+2017,60248,Skylark,SUN,Solar,CO,Colorado,PV,9121.0,megawatthours
+2017,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,ALL,59245.0,megawatthours
+2017,57368,Cogentrix of Alamosa,SUN,Solar,CO,Colorado,PV,59245.0,megawatthours
+2017,60283,SR Mavericks,SUN,Solar,CO,Colorado,ALL,14450.0,megawatthours
+2017,60283,SR Mavericks,SUN,Solar,CO,Colorado,PV,14450.0,megawatthours
+2017,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,ALL,66668.0,megawatthours
+2017,60304,"San Isabel Solar, LLC",SUN,Solar,CO,Colorado,PV,66668.0,megawatthours
+2017,60320,"Jeffco CSG, LLC",SUN,Solar,CO,Colorado,ALL,2400.0,megawatthours
+2017,60320,"Jeffco CSG, LLC",SUN,Solar,CO,Colorado,PV,2400.0,megawatthours
+2017,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,ALL,76257.0,megawatthours
+2017,57317,San Luis Valley Solar Ranch,SUN,Solar,CO,Colorado,PV,76257.0,megawatthours
+2017,59198,Sterling PV 3,SUN,Solar,CO,Colorado,ALL,4378.77,megawatthours
+2017,59198,Sterling PV 3,SUN,Solar,CO,Colorado,PV,4378.77,megawatthours
+2017,59199,Mesa PV1,SUN,Solar,CO,Colorado,ALL,3367.98,megawatthours
+2017,59199,Mesa PV1,SUN,Solar,CO,Colorado,PV,3367.98,megawatthours
+2017,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,132.0,megawatthours
+2017,60723,Conejos 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,132.0,megawatthours
+2017,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2017,60724,Arapahoe 3 Community Solar Array,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2017,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,ALL,20.0,megawatthours
+2017,60725,Xcel Adams 2 Community Solar Array,SUN,Solar,CO,Colorado,PV,20.0,megawatthours
+2017,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,241.0,megawatthours
+2017,60726,Xcel Adams 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,241.0,megawatthours
+2017,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,ALL,1252.0,megawatthours
+2017,57681,City of Boulder WWTP,SUN,Solar,CO,Colorado,PV,1252.0,megawatthours
+2017,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,ALL,1598.0,megawatthours
+2017,59239,Eagle Springs Solar LLC,SUN,Solar,CO,Colorado,PV,1598.0,megawatthours
+2017,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,0.0,megawatthours
+2017,60720,Weld 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,0.0,megawatthours
+2017,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,ALL,106.0,megawatthours
+2017,60722,Logan 1 Community Solar Array,SUN,Solar,CO,Colorado,PV,106.0,megawatthours
+2017,56481,SunE Alamosa,SUN,Solar,CO,Colorado,ALL,34876.0,megawatthours
+2017,56481,SunE Alamosa,SUN,Solar,CO,Colorado,PV,34876.0,megawatthours
+2017,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,ALL,11203.0,megawatthours
+2017,57554,AFA Solar Farm,SUN,Solar,CO,Colorado,PV,11203.0,megawatthours
+2017,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,ALL,47210.0,megawatthours
+2017,57377,Greater Sandhill I,SUN,Solar,CO,Colorado,PV,47210.0,megawatthours
+2017,60497,SR Skylark B,SUN,Solar,CO,Colorado,ALL,4424.0,megawatthours
+2017,60497,SR Skylark B,SUN,Solar,CO,Colorado,PV,4424.0,megawatthours
+2017,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,ALL,59168.0,megawatthours
+2017,60351,Bison Solar LLC,SUN,Solar,CO,Colorado,PV,59168.0,megawatthours
+2017,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,ALL,21989.0,megawatthours
+2017,60511,Clear Spring Ranch PV Project,SUN,Solar,CO,Colorado,PV,21989.0,megawatthours
+2017,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,ALL,6920.0,megawatthours
+2017,57645,City & County of Denver at Denver Int'l,SUN,Solar,CO,Colorado,PV,6920.0,megawatthours
+2017,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,ALL,3344.0,megawatthours
+2017,59144,Brighton PV Solar Plant,SUN,Solar,CO,Colorado,PV,3344.0,megawatthours
